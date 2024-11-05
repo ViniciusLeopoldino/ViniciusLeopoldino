@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinicius Leopoldino</h1>
-<h3 align="center">Engenheiro de produção 🛠️ Cursando ADS (FIAP)🧑‍💻 Em transição de carreira🔄</h3>
+<h3 align="center">Production Engineer 🛠️ Studying ADS (FIAP) 🧑‍💻 In career transition 🔄</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
