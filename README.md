@@ -13,7 +13,7 @@ Engenheiro de Produção e Desenvolvedor de Sistemas (FIAP), focado em unir a ef
 - 🏗️ **Engenharia de Produção:** Especialista em coordenação de processos, indicadores de rentabilidade e gestão logística.
 - 💻 **Desenvolvimento:** Focado em Next.js, React, TypeScript e integrações com Supabase.
 - 📊 **Dados:** Expertise em Power BI (DAX) e automação de relatórios via Python/Selenium.
-- 📍 **Localização:** São Paulo (em transição para João Pessoa 🌊).
+- 📍 **Localização:** São Paulo (buscando oportunidades para João Pessoa - PB).
 
 ---
 
