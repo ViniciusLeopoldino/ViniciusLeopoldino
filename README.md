@@ -14,7 +14,7 @@ Engenheiro de Produção e Desenvolvedor de Sistemas, focado em unir a eficiênc
 - ⚙️ **Integrações & ERPs:** Experiência na configuração e integração de sistemas (ERPs, WMS e SSW), utilizando APIs e automação Selenium para sincronização de dados e relatórios.
 - 💻 **Desenvolvimento Moderno:** Criação de ferramentas internas e Dashboards Full Stack com Next.js, React e Supabase, gerenciando o deploy via Vercel.
 - 📊 **Inteligência de Dados:** Construção de indicadores críticos (Custo x Despesa, Rentabilidade) com Power BI e extração automatizada de dados.
-- 📍 **Localização:** São Paulo (em transição para João Pessoa - PB).
+- 📍 **Localização:** São Paulo (Buscando oportunidades em João Pessoa - PB).
 
 ---
 
@@ -22,9 +22,9 @@ Engenheiro de Produção e Desenvolvedor de Sistemas, focado em unir a eficiênc
 
 **AI & Productivity**
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/google_gemini/google_gemini-icon.svg" alt="gemini" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="gemini" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="chatgpt" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Vercel_logo_black.svg" alt="vercel" width="40" height="40"/>
+  <img src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png" alt="vercel" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 </p>
 
