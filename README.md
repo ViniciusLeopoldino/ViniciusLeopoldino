@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Vinicius Leopoldino</h1>
-<h3 align="center">Production Engineer (UNICID) & Systems Developer (FIAP) 🧑‍💻</h3>
+<h1 align="center">Olá 👋, eu sou o Vinicius Leopoldino</h1>
+<h3 align="center">Engenheiro de Produção (UNICID) & Desenvolvedor de Sistemas (FIAP) 🧑‍💻</h3>
 
 <p align="center">
-  <strong>Project & Process Coordinator | Full Stack Developer | AI & Data Automation</strong>
+  <strong>Coordenador de Projetos e Processos | Desenvolvedor Full Stack | IA & Automação de Dados</strong>
 </p>
 
 ---
