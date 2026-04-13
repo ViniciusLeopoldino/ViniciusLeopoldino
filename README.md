@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinicius Leopoldino</h1>
-<h3 align="center">Production Engineer & Systems Developer (FIAP) 🧑‍💻</h3>
+<h3 align="center">Production Engineer (UNICID) & Systems Developer (FIAP) 🧑‍💻</h3>
 
 <p align="center">
   <strong>Project & Process Coordinator | Full Stack Developer | Data Analytics</strong>
