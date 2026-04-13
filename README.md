@@ -23,7 +23,6 @@ Engenheiro de Produção e Desenvolvedor de Sistemas, focado em unir a eficiênc
 **AI & Productivity**
 <p align="left">
   <img src="https://cdn.simpleicons.org/googlegemini/8E75ED" alt="gemini" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/openai/412991" alt="chatgpt" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/anthropic/D97757" alt="claude" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/vercel/000000" alt="vercel" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
