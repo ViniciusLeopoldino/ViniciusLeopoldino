@@ -2,22 +2,31 @@
 <h3 align="center">Production Engineer (UNICID) & Systems Developer (FIAP) 🧑‍💻</h3>
 
 <p align="center">
-  <strong>Project & Process Coordinator | Full Stack Developer | Data Analytics</strong>
+  <strong>Project & Process Coordinator | Full Stack Developer | AI & Data Automation</strong>
 </p>
 
 ---
 
 ### 🛠️ Sobre Mim
-Engenheiro de Produção e Desenvolvedor de Sistemas (FIAP), focado em unir a eficiência de processos industriais com o poder da tecnologia. Tenho vasta experiência em **Logística e Supply Chain**, onde utilizo **Python** e **Data Analytics** para automação de processos, gestão de frotas e otimização de KPIs. Atualmente, foco no desenvolvimento de ferramentas internas robustas utilizando o ecossistema Modern Web.
+Engenheiro de Produção e Desenvolvedor de Sistemas, focado em unir a eficiência operacional com a vanguarda tecnológica. Tenho vasta experiência em **Logística e Supply Chain**, onde utilizo **AI Engineering** e **Python** para elevar o patamar de automação, gestão de frotas e integração de ecossistemas corporativos.
 
-- 🏗️ **Engenharia de Produção:** Especialista em coordenação de processos, indicadores de rentabilidade e gestão logística.
-- 💻 **Desenvolvimento:** Focado em Next.js, React, TypeScript e integrações com Supabase.
-- 📊 **Dados:** Expertise em Power BI (DAX) e automação de relatórios via Python/Selenium.
-- 📍 **Localização:** São Paulo (buscando oportunidades para João Pessoa - PB).
+- 🤖 **AI & Automation:** Especialista em alavancar LLMs (Gemini, ChatGPT, Claude) e agentes autônomos (Manus.ia) para automação de tarefas complexas, geração de código e análise de dados.
+- ⚙️ **Integrações & ERPs:** Experiência na configuração e integração de sistemas (ERPs, WMS e SSW), utilizando APIs e automação Selenium para sincronização de dados e relatórios.
+- 💻 **Desenvolvimento Moderno:** Criação de ferramentas internas e Dashboards Full Stack com Next.js, React e Supabase, gerenciando o deploy via Vercel.
+- 📊 **Inteligência de Dados:** Construção de indicadores críticos (Custo x Despesa, Rentabilidade) com Power BI e extração automatizada de dados.
+- 📍 **Localização:** São Paulo (em transição para João Pessoa - PB).
 
 ---
 
 ### 🚀 Tech Stack
+
+**AI & Productivity**
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/google_gemini/google_gemini-icon.svg" alt="gemini" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="chatgpt" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Vercel_logo_black.svg" alt="vercel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+</p>
 
 **Frontend & Mobile**
 <p align="left">
@@ -25,19 +34,17 @@ Engenheiro de Produção e Desenvolvedor de Sistemas (FIAP), focado em unir a ef
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </p>
 
-**Backend & Data**
+**Backend, Data & ERP Integration**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
 </p>
 
-**Ferramentas & DevOps**
+**Ferramentas & Design**
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
